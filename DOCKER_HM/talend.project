@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_meW18eyWEeuLVcrzhoF9ug" label="docker_HM" language="java" technicalLabel="DOCKER_HM" author="_meW18uyWEeuLVcrzhoF9ug" productVersion="Talend Cloud Real-Time Big Data Platform-7.3.1.20210623_0656-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Kiranusegit/docker.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_mfk98OyWEeuLVcrzhoF9ug" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_meW18uyWEeuLVcrzhoF9ug" login="kmahadevappa.talend.com@talendconsultingus.aws" firstName="Kiran Kumar" lastName="Haralahalli Mahadevappa" type="DQ"/>
+</xmi:XMI>
